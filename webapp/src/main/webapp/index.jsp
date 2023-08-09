@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Rishabh Alchetti please don't stuck </h1>
+   <h1> Hey please! </h1>
  
 </form>
