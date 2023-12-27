@@ -50,7 +50,5 @@
 
 <<<<<<< HEAD
    <h1> Hey please! move </h1>
-=======
-
  
 </form>
